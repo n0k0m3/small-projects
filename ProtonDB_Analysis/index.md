@@ -9,7 +9,8 @@ tags:
   - Steam Deck
   - SteamOS
 title: Analysis of ProtonDB Linux Distribution
-last_modified_at: 2023-10-11
+date: 2021-05-10
+lastmod: 2023-10-11
 plotly: true
 ---
 
